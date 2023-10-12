@@ -5,4 +5,14 @@ project_name:
 
 project_description:
   type: str
-  help: What is your Python module name?
+  help: A quick description of the project
+
+name:
+  type: str
+  help: Enter your full name
+  default: "Sam Vaughan"
+
+copyright_date:
+  type: str
+  help: The copyright date
+  default: "2023"
