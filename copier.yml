@@ -7,7 +7,7 @@ project_description:
   type: str
   help: A quick description of the project
 
-project_python_name:
+github_repo_name:
   type: str
   help: A python-legal name for the project
 
