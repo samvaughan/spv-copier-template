@@ -7,10 +7,19 @@ project_description:
   type: str
   help: A quick description of the project
 
+project_python_name:
+  type: str
+  help: A python-legal name for the project
+
 name:
   type: str
   help: Enter your full name
   default: "Sam Vaughan"
+
+email:
+  type: str
+  help: Enter your email
+  default: "sam.vaughan@mq.edu.au"
 
 copyright_date:
   type: str

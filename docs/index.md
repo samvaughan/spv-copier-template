@@ -1,6 +1,8 @@
-# Welcome to MkDocs
+# {{project_name}}
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A bare-bones Mkdocs file for {{project_name}}. For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+Place images in docs/img and reference them as img/image_name.png. Don't include the docs folder!
 
 ## Commands
 
